@@ -1,4 +1,4 @@
-# ✍️ Handwritten Digit Recognition using Deep Learning
+# ✍️ Digit Recognition using Deep Learning
 
 ## 📌 Project Overview
 
